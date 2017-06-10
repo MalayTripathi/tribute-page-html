@@ -1,0 +1,71 @@
+body{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.container-main{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: #ECEFF1;
+  width: auto;
+  height: auto;
+}
+.heading{
+  font-size: 60px;
+  text-align: center;
+}
+.h3heading{
+  margin-top: 25px;
+  text-align: center;
+}
+.h3headingnew{
+  margin-top: 40px;
+  margin-left: -200px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.imagediv{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background-color: white;
+}
+.image-main{
+  width: 100%;
+}
+#para{
+  text-align: center;
+  font-size: 14px;
+}
+.timeline-life{
+  margin-left:auto;
+  margin-right: auto;
+  width: 60%;
+}
+.lifeachieve{
+  margin-left: 50px;
+  text-align: left;
+}
+
+.manmohan{
+  margin-left: 65px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.manmohanpm{
+  margin-left: 65px;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 400;
+  color: #90A4AE;
+}
+
+.wikipedia{
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 500;
+}
